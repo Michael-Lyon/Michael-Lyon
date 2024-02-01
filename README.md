@@ -1,10 +1,5 @@
 - 👋 Hi, I’m @Michael-Lyon
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-Michael-Lyon/Michael-Lyon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👀 I’m interested in Python, blockchain, and backend development.
+- 🌱 I’m currently learning Machine Learning.
+- 💞️ I’m looking to collaborate on API development.
+- 📫 How to reach me: mickiasomg@gmail.com
