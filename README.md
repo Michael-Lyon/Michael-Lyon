@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Michael Lyon  
+# 👋 Hi, I’m Michael Asomugha Chinonso 
 
 I am a **Python developer**, **blockchain enthusiast**, and **backend specialist** passionate about building scalable and impactful applications. My focus is on creating tools and platforms that solve real-world problems, especially in the context of emerging markets like Nigeria.  
 
