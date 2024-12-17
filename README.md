@@ -28,8 +28,9 @@ I am a **Python developer**, **blockchain enthusiast**, and **backend specialist
 - Email: [mickiasomg@gmail.com](mailto:mickiasomg@gmail.com)  
 - LinkedIn: [Michael Asomugha](https://www.linkedin.com/in/michael-asomugha-213903220?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)  
 - GitHub: [Michael-Lyon](https://github.com/Michael-Lyon)
-- X: [@real_pygod](https://github.com/Michael-Lyon)
+- X: [@real_pygod](https://x.com/real_pygod)
 - Portfolio: [Michael Asomugha](https://michael-asomugha.up.railway.app)
+- Youtube: [Channel](https://youtube.com/@real_pygod?si=vSHDm-8voGVF3ITd)
 
 ### Fun Fact  
 I am passionate about using tech to solve unique challenges in Nigeria, and I'm always eager to learn new things and share knowledge with like-minded developers!
