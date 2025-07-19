@@ -10,7 +10,7 @@ I am a **Python developer**, **blockchain enthusiast**, and **backend specialist
 
 ## 🌟 Current Projects In Progress 
 1. **Artisan Hiring App**: A mobile app connecting users with local artisans, built using **Flutter** (frontend) and **FastAPI** (backend). Targeted for launch by Q1 next year.  
-2. **StockPop**: A business platform aimed at empowering users with better stock management and business tools, planned for release by the end of the year.  
+2. **ZUPUTA**: A business platform aimed at empowering users with better stock management and business tools, planned for release by the end of the year.  
 3. **Pet Owners' App**: A specialized app for pet owners, launching by the end of Q2 next year.  
 
 ## 🔧 Skills & Tools  
