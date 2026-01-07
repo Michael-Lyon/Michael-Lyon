@@ -12,7 +12,7 @@ I am a **Python developer**, **blockchain enthusiast**, and **backend specialist
 ## 🔧 Skills & Tools  
 - **Programming Languages**: Python, Dart, JavaScript  
 - **Frameworks**: Django, FastAPI, Flutter  
-- **Web3 Tools**: Vyper (beginner), Ethereum development  
+- **Web3 Tools**: Vyper, Ethereum development  
 - **Other Tools**: PostgreSQL, Git, Docker  
 
 ## 🤝 I’m Looking to Collaborate On  
