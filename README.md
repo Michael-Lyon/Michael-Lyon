@@ -8,10 +8,6 @@ I am a **Python developer**, **blockchain enthusiast**, and **backend specialist
 - **Mobile App Development**: Skilled in **Flutter** for building cross-platform mobile applications.  
 - **Machine Learning**: Currently exploring machine learning to expand my technical toolkit for future projects.  
 
-## 🌟 Current Projects In Progress 
-1. **Artisan Hiring App**: A mobile app connecting users with local artisans, built using **Flutter** (frontend) and **FastAPI** (backend). Targeted for launch by Q1 next year.  
-2. **ZUPUTA**: A business platform aimed at empowering users with better stock management and business tools, planned for release by the end of the year.  
-3. **Pet Owners' App**: A specialized app for pet owners, launching by the end of Q2 next year.  
 
 ## 🔧 Skills & Tools  
 - **Programming Languages**: Python, Dart, JavaScript  
